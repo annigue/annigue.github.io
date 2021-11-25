@@ -17,7 +17,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: annig
+    #twitter: annig
     github:  annigue
     # devto: jekyll
     # dribbble: jekyll
