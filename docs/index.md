@@ -4,7 +4,7 @@
 
 ### Category Projects
 
-[Video Games Data Analysis ](/_pages/Video-Games-Data-Analysis.html)
+[Video Games Data Analysis ](/project1/)
 <img src="images/video.avif?raw=true"/>
 
 ---
