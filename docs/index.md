@@ -2,7 +2,7 @@
 
 ---
 
-### Category Projects
+### Projects
 
 [Video Games Data Analysis ](/project1/)
 <img src="images/video.avif?raw=true"/>
