@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+layout: post
+title: Portfolio in the making
 minimal_mistakes_skin: "contrast" # "air", "aqua", "mint", "dark", "dirt", "neon", "default", "plum" "sunrise"
 author_profile: true
 avatar: "/assets/images/quadrat3.jpg"
