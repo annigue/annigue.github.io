@@ -23,7 +23,7 @@ author:
 name: Anne Günnel
 avatar: /assets/images/quadrat3.jpg
 bio: "I am an **amazing** person." # Note: Markdown is allowed
-location: "Bremen"
+location: Bremen
 email: a.gue@gmx.net
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
