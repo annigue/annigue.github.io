@@ -1,7 +1,8 @@
-title: Your awesome title
+title: Portfolio (...in the making)
+logo: "/assets/_images/quadrat3.jpg"
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Anne Günnel
+  email: a.gue@gmx.net
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -16,14 +17,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: annig
+    github:  annigue
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
+    # instagram: annekelieselotte
+     linkedin: anneguennel
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -49,8 +50,8 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
 
 # Build settings
 theme: minima
