@@ -16,15 +16,15 @@ minima:
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
-  social_links:
+  #social_links:
     #twitter: annig
-    github:  annigue
+  #  github:  annigue
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: annekelieselotte
-     linkedin: anneguennel
+  #   linkedin: anneguennel
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
