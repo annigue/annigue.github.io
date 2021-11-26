@@ -8,8 +8,8 @@
 <img src="images/video.avif?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Visualizing Covid-19](/VisualizingCovid19.html/)
+<img src="images/covid.avif?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
