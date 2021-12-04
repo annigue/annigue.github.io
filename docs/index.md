@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Video Games Data Analysis ](/VideoGameAnalysis.html/)
+[Video Games Data Analysis ](/VideoGamesAnalysis.html/)
 <img src="images/video.avif?raw=true"/>
 
 ---
